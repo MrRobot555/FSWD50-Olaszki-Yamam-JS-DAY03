@@ -1,0 +1,12 @@
+#basis {
+	margin: auto;
+    width: 409px;
+    padding: 10px;
+}
+
+#measure {
+	position: relative;
+	margin: auto;
+	top: -290px;
+	left: 94px;
+}
