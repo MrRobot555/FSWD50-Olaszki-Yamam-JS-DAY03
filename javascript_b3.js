@@ -12,7 +12,7 @@ function product(a = array) {
 }
 
 
-var b = product([5, 5, 5, 5, 5]);
+var b = product([1, 3, 7, 10, 2]);
 
 document.write(b);
 
